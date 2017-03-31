@@ -45,5 +45,9 @@ Notes
 References
 -----
 * [https://flatcap.org/linux-ntfs/ntfs/index.html](NTFS Documentation available as part of the Linux-NTFS Project)
-	* [https://github.com/flatcap/ntfs-docs] (NTFS Technical Documentation)
+	* [https://github.com/flatcap/ntfs-docs](NTFS Technical Documentation)
+* [http://www.writeblocked.org/resources/NTFS_CHEAT_SHEETS.pdf](NTFS Reference Sheet)
+* [http://www.cse.scu.edu/~tschwarz/coen252_07Fall/Lectures/NTFS.html](COEN 252 Computer Forensics - NTFS)
+	* [http://www.cse.scu.edu/~tschwarz/COEN252_09/ln.html](COEN 252 - Lecture Notes)
+	* [http://www.cse.scu.edu/~tschwarz/COEN252_13/ln.html](COEN 152/252 Computer Forensics) 
 
