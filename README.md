@@ -34,7 +34,7 @@ Bugs
 
 Wishlist
 -----
-* ...
+* [ ] ...
 
 Notes
 -----
