@@ -30,7 +30,7 @@ Dependencies
 
 Bugs
 -----
-* ...
+* [ ] ...
 
 Wishlist
 -----
