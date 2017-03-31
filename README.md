@@ -45,4 +45,5 @@ Notes
 References
 -----
 * [https://flatcap.org/linux-ntfs/ntfs/index.html](NTFS Documentation available as part of the Linux-NTFS Project)
+** [https://github.com/flatcap/ntfs-docs] (NTFS Technical Documentation)
 
